@@ -47,4 +47,4 @@ The full code and method details are in a separate research repository: <!-- pas
 
 **Email:** [sejalsingh8647@gmail.com](mailto:sejalsingh8647@gmail.com)
 
-**LinkedIn:** [Connect with me](www.linkedin.com/in/sejal-singh-97669b314)
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/sejal-singh-97669b314)
