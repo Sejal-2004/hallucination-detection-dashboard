@@ -45,6 +45,6 @@ The full code and method details are in a separate research repository: <!-- pas
 ## Author
 **Name:** Sejal Singh
 
-**Email:** [sejalsingj8647@gmail.com](mailto:sejalsingh8647@gmail.com)
+**Email:** [sejalsingh8647@gmail.com](mailto:sejalsingh8647@gmail.com)
 
 **LinkedIn:** [Connect with me](www.linkedin.com/in/sejal-singh-97669b314)
