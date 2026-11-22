@@ -2,7 +2,7 @@
 
 An interactive dashboard that shows the results of my final semester research project on **hallucination detection** in small language models, with and without retrieved context.
 
-**Live dashboard:** https://your-app-name.streamlit.app  <!-- paste your link after deploying -->
+**Live dashboard:** https://hallucination-detection-dashboard.streamlit.app/ 
 
 ## What this project does
 
@@ -43,5 +43,8 @@ streamlit run app.py
 The full code and method details are in a separate research repository: <!-- paste research repo link here -->
 
 ## Author
+**Name:** Sejal Singh
 
-Your Name - Final Semester Project, IT
+**Email:** [sejalsingj8647@gmail.com](mailto:sejalsingh8647@gmail.com)
+
+**LinkedIn:** [Connect with me](www.linkedin.com/in/sejal-singh-97669b314)
